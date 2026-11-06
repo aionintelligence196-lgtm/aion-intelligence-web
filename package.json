@@ -49,5 +49,9 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.4.19"
+  },
+  "allowScripts": {
+    "core-js@3.50.0": true,
+    "core-js-pure@3.50.0": true
   }
 }
